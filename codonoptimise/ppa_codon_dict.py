@@ -25,3 +25,26 @@ ppa_CUB_10 = {
     "W": "TGG",
     "Y": "TAC",
     "*": "TGA"}
+
+ppa_CUB_3 = {
+    "A": "GCC",
+    "C": "TGC",
+    "D": "GAC",
+    "E": "GAG",
+    "F": "TTC",
+    "G": "GGA",
+    "H": "CAC",
+    "I": "ATC",
+    "K": "AAG",
+    "L": "CTC",
+    "M": "ATG",
+    "N": "AAC",
+    "P": "CCC",
+    "Q": "CAG",
+    "R": "CGT",
+    "S": "TCC",
+    "T": "ACC",
+    "V": "GTC",
+    "W": "TGG",
+    "Y": "TAC",
+    "*": "TGA"}
