@@ -1,0 +1,8 @@
+README.md
+setup.py
+cichlidanalysis.egg-info/PKG-INFO
+cichlidanalysis.egg-info/SOURCES.txt
+cichlidanalysis.egg-info/dependency_links.txt
+cichlidanalysis.egg-info/not-zip-safe
+cichlidanalysis.egg-info/top_level.txt
+codon-optimise/__init__.py
