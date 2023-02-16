@@ -8,11 +8,11 @@ install_requires = [
 ]
 
 setup(
-    name="cichlidanalysis",
+    name="codon-optimise",
     install_requires=install_requires,
     version="0.0.1",
-    description="cichlid behaviour analysis",
-    url="https://github.com/annnic/cichlid-analysis",
+    description="Optimising codons for P. pacificus CUB 10 and 3",
+    url="https://github.com/annnic/codon-optimise",
     license="MIT",
     packages=find_packages(),
     zip_safe=False,
